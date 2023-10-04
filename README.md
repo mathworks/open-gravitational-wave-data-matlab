@@ -17,7 +17,7 @@ Use this tutorial to get started with freely available gravitational wave data a
     - **Query and inspect the metadata** associated with these projects using commands directly from MATLAB (RESTful API)
     - Avoid downloads. **Access specific data** from within the database directly and **avoid time-consuming downloads** of large data
     - **Read in HDf5 data** from within MATLAB corresponding to specific sampling rates and detectors
-    - **Analyze gravitational wave data** using standard signal processing in time and frequency domains **re-using open community code from File Exchange**
+    - **Analyze gravitational wave data** using standard signal processing in time and frequency domains **re-using [open community](https://de.mathworks.com/matlabcentral/fileexchange/108859-gravitationalwavedataexplorer?tab=example&focused=) code from File Exchange**
     - Let others run your code and reproduce your results quickly. **Pubish the results on GitHub** and **make them accessible** using Open With MATLAB Online
     - Allow people to cite you! **Generate a DOI** for your code by linking your GitHub repository to one of several DOI-generating sites.
 - **Live Script** contains **easy-to-use menus** for user to click and select different datasets
