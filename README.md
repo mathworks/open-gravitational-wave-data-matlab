@@ -1,9 +1,9 @@
-# Analyse Open Gravitational Wave Data in MATLAB
+# Analyse Open Gravitational Wave Data in MATLAB®
 
 A MATLAB Live Script with accompanying 
-- Jupyter Notebook, 
+- Jupyter® Notebook, 
 - m file and 
-- reproducible code capsule on Code Ocean
+- reproducible code capsule on Code Ocean®
 
 to access and analyze Gravitational Wave data sets from the **Gravitational Wave Open Science Center (GWOSC)** database
 
