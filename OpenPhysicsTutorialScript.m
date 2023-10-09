@@ -540,3 +540,13 @@ end
 % Collaboration) "Observation of Gravitational Waves from a Binary Black Hole 
 % Merger", <https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.061102 
 % _Phys. Rev. Lett._ *116,* 061102> (2016)
+% 
+% [2] R. Abbott _et al_. (LIGO Scientific Collaboration, Virgo Collaboration 
+% and KAGRA Collaboration), "Open data from the third observing run of LIGO, Virgo, 
+% KAGRA and GEO", <https://doi.org/10.3847/1538-4365/acdc9f ApJS 267 29 (2023)> 
+% -- <https://inspirehep.net/literature/2630216 INSPIRE> 
+% 
+% [3] R. Abbott _et al._ (LIGO Scientific Collaboration and Virgo Collaboration), 
+% "Open data from the first and second observing runs of Advanced LIGO and Advanced 
+% Virgo", <https://doi.org/10.1016/j.softx.2021.100658 SoftwareX 13 (2021) 100658> 
+% -- <https://inspirehep.net/literature/1773351 INSPIRE>
