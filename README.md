@@ -14,7 +14,7 @@ to access and analyze Gravitational Wave data sets from the **Gravitational Wave
 
 Use this tutorial to get started with freely available gravitational wave data at [GOWSC](https://gwosc.org/) directly from MATLAB.
 - No downloads, no installations
-- **Open directly in MATLAB Online** by clicking this ![badge](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)
+- **Open directly in MATLAB Online** by clicking this [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/open-gravitational-wave-data-matlab&file=OpenPhysicsTutorial.mlx)
 - Step-by-step tutorial shows how to
     - Re-use available gravitational wave data. **Access a list of openly available events and sessions** from LIGO, Virgo and Kagra
     - **Query and inspect the metadata** associated with these projects using commands directly from MATLAB (RESTful API)
