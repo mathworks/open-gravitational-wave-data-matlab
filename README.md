@@ -5,7 +5,7 @@
 A MATLAB Live Script with accompanying 
 - [Jupyter® Notebook](https://github.com/mathworks/open-gravitational-wave-data-matlab/blob/main/OpenPhysicsTutorial.ipynb), 
 - [.m file](https://github.com/mathworks/open-gravitational-wave-data-matlab/blob/main/OpenPhysicsTutorialScript.m) and 
-- reproducible code capsule on Code Ocean®
+- [reproducible code capsule on Code Ocean®](https://doi.org/10.24433/CO.6147849.v1)
 
 to access and analyze Gravitational Wave data sets from the **Gravitational Wave Open Science Center (GWOSC)** database
 
