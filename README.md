@@ -24,7 +24,7 @@ Use this tutorial to get started with freely available gravitational wave data a
     - Allow people to cite you! **Generate a DOI** for your code by linking your GitHub repository to one of several DOI-generating sites.
 - **Live Script** contains **easy-to-use menus** for user to click and select different datasets
 - Available on [File Exchange](mathworks.com/matlabcentral/fileexchange/) for directly installing onto your MATLAB path with one click using the [Add-Ons button](https://www.mathworks.com/help/matlab/matlab_env/get-add-ons.html)
-- Accompanying **Jupyter notebook** (.ipynb) for use in a Jupyter environment. More information on MATLAB kernel [here](mathworks.com/products/reference-architectures/jupyter.html)
+- Accompanying [**Jupyter notebook** (.ipynb)](https://github.com/mathworks/open-gravitational-wave-data-matlab/blob/main/OpenPhysicsTutorial.ipynb) for use in a Jupyter environment. More information on MATLAB kernel [here](mathworks.com/products/reference-architectures/jupyter.html)
 - Accompanying **Code Ocean reproducible capsule** (.m) for one-click reproducibility of the code by anyone, including reviewers.
 
 ## About the Gravitational Wave Open Science Center 
