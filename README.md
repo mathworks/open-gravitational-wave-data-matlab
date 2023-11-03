@@ -3,8 +3,8 @@
 # Analyse Open Gravitational Wave Data in MATLAB®
 
 A MATLAB Live Script with accompanying 
-- Jupyter® Notebook, 
-- m file and 
+- [Jupyter® Notebook](https://github.com/mathworks/open-gravitational-wave-data-matlab/blob/main/OpenPhysicsTutorial.ipynb), 
+- [.m file](https://github.com/mathworks/open-gravitational-wave-data-matlab/blob/main/OpenPhysicsTutorialScript.m) and 
 - reproducible code capsule on Code Ocean®
 
 to access and analyze Gravitational Wave data sets from the **Gravitational Wave Open Science Center (GWOSC)** database
@@ -34,7 +34,7 @@ It can be accessed at [https://gwosc.org/](https://gwosc.org/). [Here](https://g
 **For advanced users** A detailed guide to the GWOSC API can be found [here](https://gwosc.org/apidocs/). To access the REST API use the MATLAB [webread](mathworks.com/help/matlab/ref/webread.html) function
 
 ### Required Products
-This tutorial uses the following products\
+This tutorial uses the following products
 - MATLAB
 - Signal Processing Toolbox
 
