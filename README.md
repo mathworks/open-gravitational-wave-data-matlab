@@ -1,4 +1,4 @@
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/open-gravitational-wave-data-matlab&file=https://github.com/mathworks/open-gravitational-wave-data-matlab/blob/main/OpenPhysicsTutorial.mlx)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/open-gravitational-wave-data-matlab&file=OpenPhysicsTutorial.mlx)
 
 # Analyse Open Gravitational Wave Data in MATLAB®
 
