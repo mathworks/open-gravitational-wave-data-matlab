@@ -12,7 +12,7 @@ to access and analyze Gravitational Wave data sets from the **Gravitational Wave
 
 ## Get started
 
-Use this tutorial to get started with freely available gravitational wave data at [GOWSC](https://gwosc.org/) directly from MATLAB.
+Use this tutorial to get started with freely available gravitational wave data at [GWOSC](https://gwosc.org/) directly from MATLAB.
 - No downloads, no installations
 - **Open directly in MATLAB Online** by clicking this [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/open-gravitational-wave-data-matlab&file=OpenPhysicsTutorial.mlx)
 - Step-by-step tutorial shows how to
