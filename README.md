@@ -24,15 +24,15 @@ Use this tutorial to get started with freely available gravitational wave data a
     - Let others run your code and reproduce your results quickly. **Pubish the results on GitHub** and **make them accessible** using Open With MATLAB Online
     - Allow people to cite you! **Generate a DOI** for your code by linking your GitHub repository to one of several DOI-generating sites.
 - **Live Script** contains **easy-to-use menus** for user to click and select different datasets
-- Available on [**File Exchange**](mathworks.com/matlabcentral/fileexchange/) for directly installing onto your MATLAB path with one click using the [Add-Ons button](https://www.mathworks.com/help/matlab/matlab_env/get-add-ons.html)
-- Accompanying **Jupyter notebook** (.ipynb) for use in a Jupyter environment. More information on MATLAB kernel [here](mathworks.com/products/reference-architectures/jupyter.html)
+- Available on [**File Exchange**](https://www.mathworks.com/matlabcentral/fileexchange/) for directly installing onto your MATLAB path with one click using the [Add-Ons button](https://www.mathworks.com/help/matlab/matlab_env/get-add-ons.html)
+- Accompanying **Jupyter notebook** (.ipynb) for use in a Jupyter environment. More information on MATLAB kernel [here](https://www.mathworks.com/products/reference-architectures/jupyter.html)
 - Accompanying **Code Ocean reproducible capsule** (.m) for one-click reproducibility of the code by anyone, including reviewers.
 
 ## About the Gravitational Wave Open Science Center 
 The Gravitational Wave Open Science Center (GWOSC) is a public repository of gravitational wave events and experimental sessions from LIGO, Virgo and Kagra for the community.
 It can be accessed at [https://gwosc.org/](https://gwosc.org/). [Here](https://gwosc.org/eventapi/html/GWTC/) is a list of available GW events from GWOSC.
 
-**For advanced users** A detailed guide to the GWOSC API can be found [here](https://gwosc.org/apidocs/). To access the REST API use the MATLAB [webread](mathworks.com/help/matlab/ref/webread.html) function
+**For advanced users** A detailed guide to the GWOSC API can be found [here](https://gwosc.org/apidocs/). To access the REST API use the MATLAB [webread](https://www.mathworks.com/help/matlab/ref/webread.html)function
 
 ### Required Products
 This tutorial uses the following products
