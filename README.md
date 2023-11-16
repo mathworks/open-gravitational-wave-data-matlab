@@ -32,7 +32,7 @@ Use this tutorial to get started with freely available gravitational wave data a
 The Gravitational Wave Open Science Center (GWOSC) is a public repository of gravitational wave events and experimental sessions from LIGO, Virgo and Kagra for the community.
 It can be accessed at [https://gwosc.org/](https://gwosc.org/). [Here](https://gwosc.org/eventapi/html/GWTC/) is a list of available GW events from GWOSC.
 
-**For advanced users** A detailed guide to the GWOSC API can be found [here](https://gwosc.org/apidocs/). To access the REST API use the MATLAB [webread](https://www.mathworks.com/help/matlab/ref/webread.html)function
+**For advanced users** A detailed guide to the GWOSC API can be found [here](https://gwosc.org/apidocs/). To access the REST API use the MATLAB [webread](https://www.mathworks.com/help/matlab/ref/webread.html) function
 
 ### Required Products
 This tutorial uses the following products
