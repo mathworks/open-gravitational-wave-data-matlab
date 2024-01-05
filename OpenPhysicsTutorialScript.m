@@ -66,7 +66,7 @@
 % 
 % 
 % 
-% In this example, we will access gravitational wave data from the <https://www.gw-openscience.org/ 
+% In this example, we will access gravitational wave data from the <https://gwosc.org/ 
 % GWOSC> Open Science database. 
 
 %% Access the data
@@ -75,7 +75,7 @@
 % Reading in archive of datafiles using API
 % Clear workspace and specify URL endpoints
 
-baseURL = "https://www.gw-openscience.org/";
+baseURL = "https://gwosc.org/";
 archive = webread(baseURL+"archive/all/json");
 
 % Read the archive of event files and sessions
